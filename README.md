@@ -1,2 +1,1 @@
 # QuantEcon.applications
-E
